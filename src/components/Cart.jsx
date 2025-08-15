@@ -74,3 +74,4 @@ export default function Cart({ isOpen, toggleCart, cart, setCart }) {
     </div>
   );
 }
+
